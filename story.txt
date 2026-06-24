@@ -1,4 +1,5 @@
 once upon a time in a land of code a new story began.
 this is story of github and vscode in 2026.
 lets add the coding languages like playwright - typescript.
-playwright is easy to learn
+playwright is easy to learn & language is easy to learn
+
